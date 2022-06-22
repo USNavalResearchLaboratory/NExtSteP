@@ -14,7 +14,7 @@ markovify==0.7.1
 MarkupSafe==1.1.1
 matplotlib==2.2.3
 multiprocess==0.70.8
-numpy==1.15.4
+numpy==1.22.0
 numpydoc==0.9.1
 packaging==19.1
 pathos==0.2.4
